@@ -1,2 +1,1 @@
-# birthday-website1
-.
+BIRTHDAY FILE
